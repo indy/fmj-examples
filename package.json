@@ -1,0 +1,12 @@
+{
+    "name": "fmj-examples"
+  , "version": "0.0.1"
+  , "description": "Examples for Full Meta Jacket"
+  , "keywords": []
+  , "author": "Inderjit Gill <email@indy.io>"
+  , "dependencies": {
+    "full-meta-jacket": "0.2.3"
+  }
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}
