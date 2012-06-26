@@ -43,4 +43,4 @@ This takes the ````posts```` list and passes it into the ````listWith```` functi
 
 ### 3. Nested layouts
 
-This index page uses a layout called ````listing-page```` and each post uses a layout called ````post```` . Both files are located in the ````_layouts```` folder, if you view them in a text editor you can see that they each have a "layout" header value of "default". This nested structure is a good way of sharing common templating code throughout a site.
+This index page uses a layout called ````listing-page```` and each post uses a layout called ````post```` . Both files are located in the ````_layouts```` folder, if you view them in a text editor you can see that they each have a "layout" header value of ````default````. This nested structure is a good way of sharing common templating code throughout a site.
