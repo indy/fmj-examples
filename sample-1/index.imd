@@ -4,7 +4,7 @@
 
 ### Welcome to the first sample for [Full Meta Jacket](https://github.com/indy/full-meta-jacket)
 
-This first sample contains a single index.imd file. It's written in [imd](https://github.com/indy/imbue) format which is basically Markdown but with extra header information. This single file uses a layout template called ````default.html```` and we also have a set of site specific variables in another file called ````_vars````
+This first sample contains a single index.imd file. It's written in [imd](https://github.com/indy/imbue) format which is basically Markdown but with extra header information. We also have a layout template called ````default.html```` and a set of site specific variables in a file called ````_vars````
 
 So the 3 relevent files in this example are:
 
